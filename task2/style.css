@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: rgb(74, 151, 223);
+    width: 300px;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black;
+}
+
+div {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
